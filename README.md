@@ -13,4 +13,4 @@ To get started, clone this repository and install the dependencies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Final-Exam-Front-End-Developing.git
+   git clone https://github.com/mtevan/Final-Exam-Front-End-Developing.git
