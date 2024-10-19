@@ -1,9 +1,16 @@
-# React + Vite
+# Final Exam Front End Developing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application that demonstrates routing and component structure using React Router. It includes multiple pages: Home, About, and a dynamic Profile page that accepts parameters from the URL.
 
-Currently, two official plugins are available:
+## Features
+- **Home Page**: A welcoming introduction.
+- **About Page**: Information about the project.
+- **Dynamic Profile Page**: Displays user information based on the ID provided in the URL.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Final-Exam-Front-End-Developing" 
+## Installation
+
+To get started, clone this repository and install the dependencies:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Final-Exam-Front-End-Developing.git
